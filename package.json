@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "sharp": "^0.33.5"
+  },
+  "name": "puyiyuan",
+  "version": "1.0.0",
+  "description": "普宜苑",
+  "main": "gen-vcppkeyi.js",
+  "type":"module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
